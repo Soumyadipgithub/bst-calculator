@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable_ic_delete.xml.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable_roundstyel.xml.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/roundstyel.xml"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable_trending_3d_cubes_phone_wallpaper.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/trending_3d_cubes_phone_wallpaper.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable__d_creative_reminder_notification_instagram_post.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/_d_creative_reminder_notification_instagram_post.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable_ic_dot.xml.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/ic_dot.xml"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable_shape.xml.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/shape.xml"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.BSTcalculator.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable_candy_colors_3d_strawberries_stationery_paper_a4.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/candy_colors_3d_strawberries_stationery_paper_a4.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable__x_calculator__1_.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/_x_calculator__1_.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable_untitled_design.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/untitled_design.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable_ic_division.xml.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/ic_division.xml"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/font_montserrat_regular.ttf.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/font/montserrat_regular.ttf"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/drawable__x_calculator.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/drawable/_x_calculator.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/font_montserrat_alternates_regular.ttf.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/font/montserrat_alternates_regular.ttf"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.BSTcalculator.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.BSTcalculator.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

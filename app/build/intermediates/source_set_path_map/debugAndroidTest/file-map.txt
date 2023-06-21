@@ -1,0 +1,9 @@
+com.example.BSTcalculator.test.app-annotation-experimental-1.1.0-0 C:\sg\my app\CSE-Course-All-Book-PDF-master\CSE-Course-All-Book-PDF-master\caches\transforms-3\cf14bdd1ce1ba3749ee43d2b49e183dc\transformed\annotation-experimental-1.1.0\res
+com.example.BSTcalculator.test.app-core-1.5.0-1 C:\sg\my app\CSE-Course-All-Book-PDF-master\CSE-Course-All-Book-PDF-master\caches\transforms-3\ec8487f8c7272de764897bc7316bc789\transformed\core-1.5.0\res
+com.example.BSTcalculator.test.app-androidTest-2 C:\sg\my app\Simple Calculator\Simple Calculator\app\build\generated\res\resValues\androidTest\debug
+com.example.BSTcalculator.test.app-androidTest-3 C:\sg\my app\Simple Calculator\Simple Calculator\app\build\generated\res\rs\androidTest\debug
+com.example.BSTcalculator.test.app-mergeDebugAndroidTestResources-4 C:\sg\my app\Simple Calculator\Simple Calculator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.BSTcalculator.test.app-mergeDebugAndroidTestResources-5 C:\sg\my app\Simple Calculator\Simple Calculator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.BSTcalculator.test.app-merged_res-6 C:\sg\my app\Simple Calculator\Simple Calculator\app\build\intermediates\merged_res\debugAndroidTest
+com.example.BSTcalculator.test.app-androidTest-7 C:\sg\my app\Simple Calculator\Simple Calculator\app\src\androidTest\res
+com.example.BSTcalculator.test.app-androidTestDebug-8 C:\sg\my app\Simple Calculator\Simple Calculator\app\src\androidTestDebug\res

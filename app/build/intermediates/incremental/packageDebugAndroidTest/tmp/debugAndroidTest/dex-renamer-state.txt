@@ -1,0 +1,13 @@
+#Tue Mar 07 19:17:54 IST 2023
+path.3=2/classes.dex
+path.2=13/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=C\:\\sg\\my app\\Simple Calculator\\Simple Calculator\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\2\\classes.dex
+base.2=C\:\\sg\\my app\\Simple Calculator\\Simple Calculator\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\13\\classes.dex
+base.1=C\:\\sg\\my app\\Simple Calculator\\Simple Calculator\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.0=C\:\\sg\\my app\\Simple Calculator\\Simple Calculator\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
